@@ -2,7 +2,7 @@
 JavaScript for Adobe Animate modules that automate processes for the Production team. Some of these tasks would take hours per Animate file and were prone to error. Automation scripts can process dozens of files within minutes.
 
 ## Input
-Files were usually gathered in a directory for processing and then opened in Adobe Animate.
+Files were usually gathered in a directory for processing and then opened in Adobe Animate, where the JSFL script would be executed.
 
 ## Output
 Provide various outputs depending on the task. Some of these include: 
